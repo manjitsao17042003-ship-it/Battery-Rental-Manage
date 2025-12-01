@@ -1,0 +1,5 @@
+{
+  "name": "Battery Rental Manager",
+  "description": "A comprehensive Progressive Web App (PWA) for managing battery rentals, tracking inventory, customer management, and generating reports using Firebase and React.",
+  "requestFramePermissions": []
+}
